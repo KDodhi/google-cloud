@@ -185,7 +185,7 @@
     <dependency>
       <groupId>io.cdap.plugin</groupId>
       <artifactId>format-common</artifactId>
-      <version>${cdap.plugin.version}</version>
+      <version>${cdap.plugin.version}-lr</version>
     </dependency>
     <dependency>
       <groupId>io.cdap.plugin</groupId>
